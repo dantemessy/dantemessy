@@ -12,6 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="dantemessy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dantemessy | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="dantemessy | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="dantemessy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -51,3 +52,4 @@
 [instagram]: https://www.instagram.com/dante.messy
 [facebook]: https://www.facebook.com/DanTe.Messy
 [linkedin]: https://www.linkedin.com/in/abdulrhman-alharasis
+[telegram]: https://t.me/dantemessy
