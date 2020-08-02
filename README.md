@@ -52,6 +52,9 @@
 
 ---
 
+![DanTe's github stats](https://github-readme-stats.vercel.app/api?username=dantemessy)
+
+
 [website]: https://arabot.io
 [twitter]: https://twitter.com/dantemessy
 [instagram]: https://www.instagram.com/dante.messy
