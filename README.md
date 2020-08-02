@@ -3,9 +3,9 @@
 ## I'm an Athlete, Gamer, Developer, and CryptoTrader!
 - 🔭 I’m currently working as a Software Engineer in [Arabot][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to work on DApps !
+- 🔗 I’m looking to work on DApps !
 - 🎓 Education: Bachelor’s Degree | Electrical Power Engineering 🔌
-- ⚡ Fun fact: I love to draw and watch anime 
+- ⚡ Fun fact: I love to draw and watch anime 📺 
 
 ### Connect with me:
 
@@ -18,8 +18,8 @@
 
 ### Languages and Tools:
 
-[JavaScript][<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-![JavaScript2][<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" onmouseover="test1 " />]
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg" onmouseover="test2" />
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
