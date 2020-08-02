@@ -4,7 +4,9 @@
 - 🔭 I’m currently working as a Software Engineer in [Arabot][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🔗 I’m looking to work on DApps !
-- 🎓 Education: Bachelor’s Degree | Electrical Power Engineering 🔌
+- 🎓 Education: 
+    - Bachelor’s Degree | Electrical Power Engineering 🔌
+    - Certificate | Advanced Javascript Software Development 🔧
 - ⚡ Fun fact: I love to draw and watch anime 📺 
 
 ### Connect with me:
