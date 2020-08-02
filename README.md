@@ -34,6 +34,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
 <img align="left" alt="pgSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postgresql.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
+<img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jest.svg" />
+<img align="left" alt="Nodemon" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/nodemon.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudiocode.svg" />
