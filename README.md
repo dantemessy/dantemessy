@@ -50,4 +50,4 @@
 [twitter]: https://twitter.com/dantemessy
 [instagram]: https://www.instagram.com/dante.messy
 [facebook]: https://www.facebook.com/DanTe.Messy
-[linkedin]: www.linkedin.com/in/abdulrhman-alharasis
+[linkedin]: https://www.linkedin.com/in/abdulrhman-alharasis
