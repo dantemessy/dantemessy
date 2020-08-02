@@ -37,6 +37,7 @@
 <img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jest.svg" />
 <img align="left" alt="Nodemon" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/nodemon.svg" />
 <img align="left" alt="Json" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/json.svg" />
+<img align="left" alt="Eslint" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/eslint.svg" />
 <img align="left" alt="jsw" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jsonwebtokens.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
