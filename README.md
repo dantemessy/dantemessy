@@ -1,5 +1,10 @@
 ### Hi there, I'm Abdulrhman - aka DanTe 👋
 
+[<img align="left" alt="dantemessy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dantemessy | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />][telegram]
+
+<br />
+
 ## I'm an Athlete, Gamer, Developer, and CryptoTrader!
 - 🔭 I’m currently working as a Software Engineer in [Arabot][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -9,15 +14,7 @@
     - Certificate | Advanced Javascript Software Development 🔧
 - ⚡ Fun fact: I love to draw and watch anime 📺 
 
-### Connect with me:
 
-[<img align="left" alt="dantemessy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dantemessy | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="dantemessy | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="dantemessy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
