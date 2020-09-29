@@ -2,7 +2,7 @@
 
 [<img align="left" alt="dantemessy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dantemessy | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />][telegram]
-
+---
 <br />
 
 ## I'm an Athlete, Gamer, Developer, and CryptoTrader!
