@@ -1,10 +1,10 @@
 ### Hi there, I'm Abdulrhman - aka DanTe 👋
-----
+
 [<img align="left" alt="dantemessy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dantemessy | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />][telegram]
 <br />
-
-## I'm an Athlete, Gamer, Developer, and CryptoTrader!
+---
+### I'm an Athlete, Gamer, Developer, and CryptoTrader!
 - 🔭 I’m currently working as a Software Engineer in [Arabot][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🔗 I’m looking to work on DApps !
