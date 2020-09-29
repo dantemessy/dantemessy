@@ -18,13 +18,13 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg" />
 <img align="left" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg" />
+<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/spring.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sass.svg" />
 <img align="left" alt="JQuery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/jquery.svg" />
-<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/spring.svg" />
 <img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/svg/29/29594.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
 <img align="left" alt="pgSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postgresql.svg" />
