@@ -48,7 +48,7 @@
 ---
 
 
-[]: # ![DanTe's github stats](https://github-readme-stats.vercel.app/api?username=dantemessy)
+![DanTe's github stats](https://github-readme-stats.vercel.app/api?username=dantemessy)
 
 
 [website]: https://arabot.io
